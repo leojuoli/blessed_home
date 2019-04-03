@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Blessed
 
 You can use the [editor on GitHub](https://github.com/leojuoli/blessed_home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
